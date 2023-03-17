@@ -1,1 +1,1 @@
-# 88044---Machine-Learning
+# Machine-Learning-Practicals
